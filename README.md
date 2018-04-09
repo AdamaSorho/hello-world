@@ -1,5 +1,4 @@
 # hello-world
-mon premier répertoire sur GitHub
 
 Salut les gars !
 
